@@ -66,14 +66,12 @@ Vamos nos conectar? Sinta-se à vontade para explorar meus repositórios! 😄
 ### 📊 Estatísticas:
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoraes97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img alt="GitHub Stats" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoraes97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoraes97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img alt="Top Langs" height="180" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoraes97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
 <br clear="left"/>
-
-<br/>
 
 ---
 
