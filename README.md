@@ -1,4 +1,4 @@
-# 👨‍💻 Thiago Moraes
+# 👩🏻‍💻 Thiago Moraes
 
 **`Desenvolvedor Full-Stack`**
 
@@ -59,8 +59,6 @@ Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios! 😄
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40"/>
 </p>
 
-<br/>
-
 ---
 
 ### 📊 Estatísticas:
@@ -70,8 +68,6 @@ Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios! 😄
 
   <img alt="Top Langs" height="180" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoraes97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
-
-<br clear="left"/>
 
 ---
 
