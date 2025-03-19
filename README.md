@@ -2,13 +2,13 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Sou um desenvolvedor Full-Stack apaixonado por tecnologia e sempre em busca de novos desafios. Tenho experiência em **JavaScript, TypeScript, React, Node.js, Java, Spring Boot, SQL, MySQL, API Restful** e mais.
+Sou um desenvolvedor Full-Stack júnior apaixonado por tecnologia e buscando sempre aprender mais. Tenho experiência com **JavaScript, TypeScript, React, Node.js, Java, Spring Boot, SQL, MySQL**, e estou sempre em busca de desafios.
 
-Atualmente, estou aprimorando minhas habilidades na **Compass UOL**, focado em tecnologias modernas como **AWS e Inteligência Artificial**, além de desenvolver projetos práticos, como **sistemas bancários** e **soluções de e-commerce**.
+Atualmente, estou desenvolvendo projetos práticos, como **sistemas bancários** e **soluções de e-commerce**, enquanto aprimoro minhas habilidades em **AWS** e **Inteligência Artificial**.
 
 ---
 
-### 🔨 Tecnologias que utilizo:
+### 🔧 Tecnologias que uso:
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript, React  
 - **Back-end:** Node.js, Java (Spring Boot), APIs Restful  
@@ -19,9 +19,9 @@ Atualmente, estou aprimorando minhas habilidades na **Compass UOL**, focado em t
 
 ### 🚀 O que você encontra por aqui:
 
-Projetos que refletem minha jornada de aprendizado, explorando desde soluções de automação até aplicações completas e escaláveis.
+Projetos que mostram minha evolução como desenvolvedor.
 
-Vamos nos conectar? Sinta-se à vontade para explorar meus repositórios! 😄
+Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios! 😄
 
 ---
 
