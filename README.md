@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Thiago Moraes
+# 🧑🏻‍💻 Thiago Moraes
 
 **`Desenvolvedor Full-Stack`**
 
