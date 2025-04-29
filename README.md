@@ -1,73 +1,41 @@
-# 🧑🏻‍💻 Thiago Moraes
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61dafb&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Thiago+Moraes!;Desenvolvedor+Front-End;Amo+Tecnologia+e+Desafios!)](https://git.io/typing-svg)
 
-**`Desenvolvedor Full-Stack`**
-
-Sou um desenvolvedor Full-Stack júnior apaixonado por tecnologia e buscando sempre aprender mais. Tenho experiência com **JavaScript, TypeScript, React, Node.js, Java, Spring Boot, SQL, MySQL**, e estou sempre em busca de desafios.
-
-Atualmente, estou desenvolvendo projetos práticos, como **sistemas bancários** e **soluções de e-commerce**, enquanto aprimoro minhas habilidades em **AWS** e **Inteligência Artificial**.
-
----
-
-### 🔧 Tecnologias que uso:
-
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, React  
-- **Back-end:** Node.js, Java (Spring Boot), APIs Restful  
-- **Banco de Dados:** MySQL, SQL (com Knex.js e JDBC)  
-- **Ferramentas:** Git, GitHub, Docker, AWS  
-
----
-
-### 🚀 O que você encontra por aqui:
-
-Projetos que mostram minha evolução como desenvolvedor.
-
-Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios! 😄
-
----
-
-### 📌 Contato:
-
-<p align="left">
-  <a href="https://www.google.com/maps/place/Teresópolis,+RJ" target="_blank">
-    <img src="https://img.shields.io/badge/Localização-Teresópolis%2C%20RJ%2C%20Brasil-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização">
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:thiagomottamoraes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/+5521991446493" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias:
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40"/>
-</p>
-
----
-
-### 📊 Estatísticas:
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="GitHub Stats" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoraes97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-  <img alt="Top Langs" height="180" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoraes97&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
+
+---
+
+# 👋 Sobre mim
+
+Sou **Desenvolvedor Front-End**, apaixonado por criar experiências incríveis na web.  
+🎯 Atualmente me aprofundando ainda mais no Front-End e estudando Back-End com Node.js e Python.
+
+---
+
+## 🛠️ Tecnologias
+
+- **Front-end:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+- **Back-end (em estudo):** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- **Banco de Dados:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+- **Ferramentas:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMoraes97&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Thiago Moraes GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMoraes97&layout=compact&theme=tokyonight&langs_count=8" alt="Thiago Moraes Top Languages"/>
+</div>
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomoraes97)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagomottamoraes@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5521991446493)
 
 ---
 
